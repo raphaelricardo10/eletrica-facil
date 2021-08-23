@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Eletrica Fácil</string>
+    <string name="area">Area do comodo: %s m²</string>
+    <string name="potencia">Potência: %s w</string>
+    <string name="custo">Custo por hora: R$: %.2f</string>
+    <string name="min_tomadas">Quantidade mínima de tomadas: %d</string>
+    <string name="min_tomadas_extra">Quantidade mínima de tomadas: %d\nCom pelo menos um ponto próximo %s</string>
+    <string name="min_tomadas_0">Nenhum ponto de tomada é obrigatório</string>
+    <string name="min_tomadas_1">Pelo menos um ponto de tomada é necessário</string>
+    <string name="min_tomdadas_ban_1">Pelo menos um ponto de tomada próximo ao lavatório</string>
+
+</resources>
