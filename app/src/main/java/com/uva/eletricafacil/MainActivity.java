@@ -100,7 +100,7 @@ public class MainActivity extends Activity {
                         double tensao = Double.parseDouble(tensaoEditText.getText().toString());
                         double corrente = Double.parseDouble(correnteEditText.getText().toString());
                         double potencia = tensao*corrente;
-                        double custo = potencia*0.35;
+                        double custo = potencia*0.68/100;
 
                         potenciaTextView.setText(getString(R.string.potencia, formater.format(potencia)));
                         custoTextView.setText(getString(R.string.custo, custo));
