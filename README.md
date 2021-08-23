@@ -7,6 +7,6 @@ This is an Android application developed to help people to size correctly electr
 
 The user input the room type and size and the app outputs how many power plugs you need for that room and if the user needs to install power plugs in specific locations.
 
-Additionally, the user can calculate the power and energy cost of a electrical product just inserting its working voltage and current. In this version, the energy cost per KWh is R$ 0,68 and the user cannot change it.
+Additionally, the user can calculate the power and energy cost of a electrical product just inserting its working voltage and current. In this version, the energy cost per KWh is R$ 0,68 and the user cannot change it, because is defined in compile time.
 
 ![Application screenshot](screenshots/mainActivity.png?raw=true "Application screenshot")
