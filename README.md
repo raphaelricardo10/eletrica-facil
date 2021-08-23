@@ -9,4 +9,4 @@ The user input the room type and size and the app outputs how many power plugs y
 
 Additionally, the user can calculate the power and energy cost of a electrical product just inserting its working voltage and current. In this version, the energy cost per KWh is R$ 0,68 and the user cannot change it.
 
-![Application screenshot](screenshots/mainActivity.jpg?raw=true "Application screenshot")
+![Application screenshot](screenshots/mainActivity.png?raw=true "Application screenshot")
